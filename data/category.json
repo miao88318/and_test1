@@ -1,0 +1,23 @@
+{
+  "category":[{
+    "desc": "分类",
+    "category_code": 200,
+    "category_length": 0,
+    "category_name": "炒货"
+  }],
+  "classify":[{
+    "desc": "分类下的商品",
+    "classify_code": 200,
+    "classify_id": 4,
+    "classify_length_url": 0,
+    "classify_name": "油炸花生 300克"
+  }],
+  "commodity":[{
+    "desc": "商品详情",
+    "commodity_id": 17,
+    "commodity_code": 200,
+    "commodity_name": "油炸花生 300克",
+    "commodity_price": "0.01",
+    "commodity_length_url": 0
+  }]
+}
